@@ -1,0 +1,32 @@
+{
+  "id": "grandma_zhang",
+  "name": "张奶奶",
+  "age": 58,
+  "education": "初中",
+  "role": "资深奶奶",
+  "children": [
+    {
+      "name": "大儿子",
+      "age": 32,
+      "children": ["孙女小雨 5岁", "孙子小明 3岁"]
+    }
+  ],
+  "personality": {
+    "traits": ["经验丰富", "热心肠", "传统智慧", "学习新事物"],
+    "interests": ["中医偏方", "传统育儿", "广场舞", "抖音"],
+    "communication_style": "亲切温和，喜欢分享经验",
+    "digital_habits": {
+      "apps": ["微信", "抖音", "快手"],
+      "video_preferences": ["健康养生", "传统偏方", "孙辈教育", "广场舞"],
+      "daily_screen_time": "2-3小时"
+    }
+  },
+  "background": "村里的老人，带过很多孩子，有丰富的育儿经验。最近学会了用智能手机，经常在抖音上看养生和育儿视频，也会转发给年轻妈妈们。",
+  "concerns": ["孙辈健康", "传统文化传承", "邻里和睦", "家庭和谐"],
+  "knowledge_areas": ["传统育儿经验", "中医基础", "家庭偏方", "农村生活智慧"],
+  "language_style": {
+    "dialect": "方言较重，但努力说普通话",
+    "common_phrases": ["孩子啊", "我跟你说", "这个方子好用", "老人家的经验"],
+    "emoji_usage": "偶尔使用👵❤️🙏🎉等简单表情"
+  }
+}
